@@ -1,16 +1,8 @@
 ### cloud security Information
-* [Flagship Project](#)
-* [Tool Project](#)
-* [Version 2.8.0](#)
-* [Builder](#)
-* [Breaker](#)
 
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
 
 ### Code Repository
-* [repo](#)
+* [repo](https://github.com/owasp-cloud-security/owasp-cloud-security)
 
 ### Change Log
 * [changes](#)
